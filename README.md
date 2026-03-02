@@ -13,4 +13,5 @@ This project transforms multidimensional macroeconomic datasets into an interact
 
 **Tech Stack & Tools:**
 **Visualization:** Tableau (Desktop/Public)
+             **Dasboard 1:** https://public.tableau.com/views/IndiasInternationalTradeOutlook/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 **Data Structure:** Relational data modeling across four granular datasets (Yearly, Monthly, State-level, and Country-level).
