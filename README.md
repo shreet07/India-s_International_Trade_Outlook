@@ -13,9 +13,9 @@ This project transforms multidimensional macroeconomic datasets into an interact
 
 **Tech Stack & Tools:**
 * **Visualization:** Tableau (Desktop/Public)
-* **Dasboard 1:** India’s International Trade Outlook | Tableau Public
-* **Dashboard 2:** India’s International Trade Outlook_Country | Tableau Public
-* **Dashboard 3:** India’s International Trade Outlook_Commodity | Tableau Public
-* **Dashboard 4:** India’s International Trade Outlook_State | Tableau Public
+* **Dasboard 1:** https://public.tableau.com/app/profile/sritama.ghosh/viz/IndiasInternationalTradeOutlook/Dashboard1
+* **Dashboard 2:** https://public.tableau.com/app/profile/sritama.ghosh/viz/IndiasInternationalTradeOutlook_Country/Dashboard2
+* **Dashboard 3:** https://public.tableau.com/app/profile/sritama.ghosh/viz/IndiasInternationalTradeOutlook_Commodity/Dashboard3
+* **Dashboard 4:** https://public.tableau.com/app/profile/sritama.ghosh/viz/IndiasInternationalTradeOutlook_State/Dashboard4
   
 **Data Structure:** Relational data modeling across four granular datasets (Yearly, Monthly, State-level, and Country-level).
